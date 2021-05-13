@@ -2,17 +2,6 @@
   
     
         "post0": {
-            "title": "Quem quer ser um Cientista de Dados?",
-            "content": ". img_url = &#39;https://awari.com.br/wp-content/uploads/2021/01/carlos-muza-hpjSkU2UYSU-unsplash-1024x729.jpg&#39; . . Nas últimas décadas, a educação foi ganhando um caráter empresarial com o foco no desempenho e promoção da competitividade num mercado super competitivo. . A partir desse contexto e da 4ª revolução tecnológica, já respirando uma 5ª, nos professores vivemos o grande desafio de olhar o nosso ato de planejar com o objetivo de garantir dados para possíveis intervenções viabilizando o processo de aprendizagem dos alunos. . A Ciências de Dados vem como um oportunidade de olhar para esse contexto, e pensar como a educação pode se beneficiar desses dados e pensar como tudo o que é produzido e gerado ao longo do planejamento, e promover um processo de acompanhamento e avaliação qualificado. . Dentro da operacionalidade do preparo de um Data Science, estamos diantes de novos termos, desafios inquietantes, anseios com as linguagens e com as dinâmicas que vão aparecendo. Ai volta a necessidade de exercitar uma outra língua, a solução poderosa dessa tal caixa mágica chamada GitHub, conectando os neófitos em programação, a seres programadores em criação do Blog. . Com tudo isso, esse de fato é um terreno a ser desbravado e está apresentando muitas ferramentas para a descoberta dessa cidade perdida dos Insigths educacionais. .",
-            "url": "https://danielms01.github.io/primeiroblog/blog/datascience/2021/05/12/_05_13_datascience.html",
-            "relUrl": "/blog/datascience/2021/05/12/_05_13_datascience.html",
-            "date": " • May 12, 2021"
-        }
-        
-    
-  
-    
-        ,"post1": {
             "title": "Jimi Hendrix Experience",
             "content": ". Imagem encontrada no Pinterest! . Link | . Jimi Hendrix . Um gênio da guitarra. James Marshall Hendrix, nasceu em Seattle no dia 27 de novembro no ano de 1942. Com descendência africana, mexicanos e indio, viveu parte infância com sua avó, ficando orfão aos 10 anos. Antes de ser militar e quebrar o tornozelo em um dos saltos como PQD, tocou em duas bandas. . Logo quando mudou-se para Nova York, tocou com artistas e logo em seguida montou sua primeira banda. Hendrix é conhecido por ter explorado a guitarra eletrica tirando sons até então desconhecidos. Com riffs matadores e um técnica única, construiu um discografia que até hoje serve de influência para muitos guitarristas. . No dia 18 de setembro de 1970, nosso guitar hero foi convidado para tocar em outro plano. . Viva Hendrix! . .",
             "url": "https://danielms01.github.io/primeiroblog/blog/tumblr/pinterest/hendrix/2021/05/12/_05_12_hendrix.html",
@@ -23,7 +12,7 @@
     
   
     
-        ,"post2": {
+        ,"post1": {
             "title": "An Example Markdown Post",
             "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above. . Basic formatting . You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule: . . Lists . Here’s a list: . item 1 | item 2 | . And a numbered list: . item 1 | item 2 | Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . Code . You can format text and code per usual . General preformatted text: . # Do a thing do_thing() . Python code and output: . # Prints &#39;2&#39; print(1+1) . 2 . Formatting text as shell commands: . echo &quot;hello world&quot; ./some_script.sh --option &quot;value&quot; wget https://example.com/cat_photo1.png . Formatting text as YAML: . key: value - another_key: &quot;another value&quot; . Tables . Column 1 Column 2 . A thing | Another thing | . Tweetcards . Altair 4.0 is released! https://t.co/PCyrIOTcvvTry it with: pip install -U altairThe full list of changes is at https://t.co/roXmzcsT58 ...read on for some highlights. pic.twitter.com/vWJ0ZveKbZ . &mdash; Jake VanderPlas (@jakevdp) December 11, 2019 Footnotes . This is the footnote. &#8617; . |",
             "url": "https://danielms01.github.io/primeiroblog/markdown/2020/01/14/test-markdown-post.html",
